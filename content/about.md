@@ -16,7 +16,7 @@ You're welcome to train with NRBJJ for a free trial class. Please [contact us](m
 
 We'd recommend wearing comfortable sports clothing (shorts and t-shirt), and consider bringing a gumshield if you have one. Bringing water is a good idea too, and a pair of sliders or sandals for walking off the mat are also useful.
 
-You'll need to ensure you've completed our Waiver before stepping onto the mat to train.
+You'll need to ensure you've [completed our Waiver](https://nithriverbjj.com/waiver) before stepping onto the mat to train.
 
 Our BJJ club is not as traditional or formal as other martial arts can be, but one specific rule we share with many other BJJ teams which might not be obvious to newcomers to the sport is in **respecting our mats**:
 * Do not step on the mat with shoes on,
