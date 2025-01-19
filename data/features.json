@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Location",
+    "description": "Whitesands, Dumfries",
+    "icon": "icon-keyboard_arrow_up",
+    "link": "https://www.google.com/maps/place/Nith+River+Brazilian+Jiu+Jitsu/@55.0670217,-3.6142406,17z/data=!3m1!4b1!4m6!3m5!1s0x4862b599a126904d:0x536577bf98678704!8m2!3d55.0670217!4d-3.6116603!16s%2Fg%2F11s8513kx8?entry=ttu&g_ep=EgoyMDI1MDExNS4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "title": "Membership",
+    "description": "Monthly £45 PAYG £7",
+    "icon": "icon-sphere"
+  },
+  {
+    "title": "Instagram",
+    "description": "nithriverbjj",
+    "icon": "icon-link",
+    "link": "https://instagram.com/nithriverbjj"
+  }
+]
