@@ -1,24 +1,22 @@
 [
-  {
-    "image": "img/slide/21.jpeg"
+{
+    "image": "img/slide/G.jpeg"
   },
   {
-    "image": "img/slide/05.jpeg"
+    "image": "img/slide/B.jpeg"
   },
   {
-    "image": "img/slide/23.jpeg"
+    "image": "img/slide/C.jpeg"
   },
-  {
-    "image": "img/slide/07.jpeg"
+ {
+    "image": "img/slide/D.jpeg"
   },
-  {
-    "image": "img/slide/20.jpeg"
+{
+    "image": "img/slide/F.jpeg"
   },
-  {
-    "image": "img/slide/01.jpeg"
-  },
-  {
-    "image": "img/slide/31.jpeg"
+
+{
+    "image": "img/slide/E.jpeg"
   }
 
 ]

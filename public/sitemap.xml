@@ -69,6 +69,8 @@
   </url><url>
     <loc>http://localhost:1313/contact/</loc>
   </url><url>
+    <loc>http://localhost:1313/faq/</loc>
+  </url><url>
     <loc>http://localhost:1313/timetable/</loc>
   </url>
 </urlset>
