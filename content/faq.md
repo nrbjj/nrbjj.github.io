@@ -9,7 +9,7 @@ You are welcome to come for a trial class free of charge.
 🤼 Monday and Thursday we train in regular sports clothing (without zips or pockets)
 🥋 Wednesdays we train in the gi.
 
-Bring a water bottle, sweat towel and mouth guard if you have one.
+Bring a water bottle, sweat towel, and mouth guard if you have one.
 
 👍🏼 Complete [this waiver](https://nithriverbjj.com/waiver) before your first session to be covered by our insurance
 
