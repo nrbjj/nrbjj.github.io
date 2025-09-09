@@ -25,4 +25,5 @@ Bring a water bottle, sweat towel, and mouth guard if you have one.
 * Wash all clothing after training
 * Keep your training partners safe
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g3YHxoNSXN4?si=C4AZoiBC9YJbXE8_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{{< youtube g3YHxoNSXN4 >}}
+
