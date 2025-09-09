@@ -1,0 +1,6 @@
+title: nrbjj.github.io
+theme: jekyll-theme-primer
+exclude:
+  - node_modules
+  - themes
+
