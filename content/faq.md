@@ -1,6 +1,6 @@
----
++++
 title = "FAQ"
----
++++
 
 You are welcome to come for a trial class free of charge.
 
