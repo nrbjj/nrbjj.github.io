@@ -75,10 +75,16 @@ enableRobotsTXT = true
     weight = 5
 
   [[menu.main]]
+    identifier = "safeguarding"
+    name = "Safeguarding"
+    url = "/safeguarding/"
+    weight = 6
+
+  [[menu.main]]
     identifier = "contact"
     name = "Contact"
     url = "mailto:nithriverbjj@gmail.com"
-    weight = 6
+    weight = 7
 
   # Footer Menu
   [[menu.footer]]
