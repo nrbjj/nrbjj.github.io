@@ -6,6 +6,7 @@ Nith River welcomes drop-ins from any affliation or club. No fee for passing thr
 
 |Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday|
 |------|-------|---------|--------|------|--------|------|
+| | | **17:30** [Kids](/kids/) (until 18:15)| | | |
 |**18:30** No gi| | **18:30** Gi| **18:30** No gi| | |
 |**19:30** Open mat| | **19:30** Open mat| **19:30** Open mat| | |
 

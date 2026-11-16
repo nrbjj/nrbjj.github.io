@@ -57,34 +57,40 @@ enableRobotsTXT = true
     weight = 2
 
   [[menu.main]]
+    identifier = "kids"
+    name = "Kids"
+    url = "/kids/"
+    weight = 3
+
+  [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
-    weight = 3
+    weight = 4
 
   [[menu.main]]
     identifier = "faq"
     name = "FAQ"
     url = "/faq/"
-    weight = 4
+    weight = 5
 
   [[menu.main]]
     identifier = "waiver"
     name = "Waiver"
     url = "/waiver/"
-    weight = 5
+    weight = 6
 
   [[menu.main]]
     identifier = "safeguarding"
     name = "Safeguarding"
     url = "/safeguarding/"
-    weight = 6
+    weight = 7
 
   [[menu.main]]
     identifier = "contact"
     name = "Contact"
     url = "mailto:nithriverbjj@gmail.com"
-    weight = 7
+    weight = 8
 
   # Footer Menu
   [[menu.footer]]

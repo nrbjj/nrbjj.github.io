@@ -6,6 +6,8 @@ You are welcome to come for a trial class free of charge.
 
 ⏰ We teach classes Monday, Wednesday and Thursday from 630pm.
 
+🧒 [Kids classes](/kids/) run on Wednesdays from 530pm until 615pm.
+
 🤼 Monday and Thursday we train in regular sports clothing (without zips or pockets)
 🥋 Wednesdays we train in the gi.
 
